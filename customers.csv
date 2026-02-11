@@ -1,0 +1,21 @@
+customer_id,name,city,age,product,purchase_amount,satisfaction
+1,Ahmet Yılmaz,İstanbul,34,Laptop,15000,5
+2,Ayşe Demir,Ankara,28,Phone,8000,4
+3,Mehmet Kaya,İzmir,45,Tablet,5000,3
+4,Fatma Şahin,Bursa,31,Laptop,16000,5
+5,Ali Öztürk,Antalya,29,Phone,9000,4
+6,Zeynep Arslan,İstanbul,37,Headphones,1500,5
+7,Mustafa Çelik,Ankara,42,Laptop,14000,4
+8,Elif Yıldız,İzmir,26,Tablet,4500,3
+9,Hasan Aydın,İstanbul,33,Phone,7500,2
+10,Merve Kılıç,Bursa,30,Laptop,17000,5
+11,Emre Polat,Antalya,35,Headphones,2000,4
+12,Selin Koç,İstanbul,27,Phone,8500,5
+13,Burak Şen,Ankara,40,Tablet,5500,3
+14,Gamze Akın,İzmir,32,Laptop,15500,4
+15,Cem Özdemir,Bursa,29,Phone,9500,5
+16,Deniz Kurt,İstanbul,36,Headphones,1800,4
+17,Onur Yurt,Ankara,41,Laptop,16500,5
+18,Seda Acar,İzmir,28,Tablet,4800,3
+19,Kerem Doğan,Antalya,34,Phone,8200,4
+20,Pınar Erdoğan,İstanbul,31,Laptop,14500,5
